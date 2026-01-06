@@ -1,4 +1,4 @@
-**Business Problem **
+**Business Problem**
 
 Our company operates a diverse fleet of aircraft ranging from small 
 business jets to medium-sized machines. We have been providing 
@@ -11,9 +11,7 @@ resulting in increased labor costs. As a result, the company's profitability is
 under pressure, and they are seeking ways to address this issue. To tackle 
 this challenge, they are looking to conduct an analysis of their database to 
 find ways to increase their occupancy rate, which can help boost the 
-average profit earned per seat.
-                                                                                                                                                                                   
-                                                                 
+average profit earned per seat.                                                                                                                                                                                                                                          
 **Objective**
 
 The main goal of this Data Analysis using sql would be identify opportunities to increase occupancy rate on low performing flight. 
@@ -32,9 +30,7 @@ and increase customer loyalty.
 The end goal of this task would be to identify opportunities to increase the occupancy rate on low-performing flights, which can ultimately 
 lead to increased profitability for the airline.
 
-
-
-**Conclusion **
+**Conclusion**
 
 To summarize, analyzing revenue data such as total revenue per year, 
 average revenue per ticket, and average occupancy per aircraft is 
