@@ -11,7 +11,9 @@ resulting in increased labor costs. As a result, the company's profitability is
 under pressure, and they are seeking ways to address this issue. To tackle 
 this challenge, they are looking to conduct an analysis of their database to 
 find ways to increase their occupancy rate, which can help boost the 
-average profit earned per seat.                                                                                                                                                                                                                                          
+average profit earned per seat.    
+
+
 **Objective**
 
 The main goal of this Data Analysis using sql would be identify opportunities to increase occupancy rate on low performing flight. 
